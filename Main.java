@@ -24,8 +24,6 @@ public class Main {
 
         int Option;
 
-        
-
         do {
             /** Menu do Programa */
 

@@ -1,6 +1,8 @@
 import java.util.Random;
 import java.util.List;
 
+/* ANALISANDO AS CLASSES DOS EMPREGADOS */
+
 public class Employee {
 
     public String name;

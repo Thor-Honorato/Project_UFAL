@@ -11,6 +11,8 @@ public class Main {
         List<Employee> employees = new ArrayList<>();
         List<TimeCard> timeCards = new ArrayList<>();
 
+        /* Lista de Empregados Iniciais */
+
         TimeCard timeCard = new TimeCard("25-05-2022", 8);
         timeCards.add(timeCard);
         Employee employee1 = new Employee("Wesley Honorato", "Aeroporto", "Assalariado", true, timeCards,

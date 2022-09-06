@@ -1,4 +1,6 @@
 
+/* MÉTODO DE PAGAMENTO */
+
 public class PaymentMethod {
 
     public String paymentMethod;

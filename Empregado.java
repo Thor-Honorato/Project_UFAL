@@ -1,4 +1,6 @@
 
+/* EMPREGADOS - TESTE */
+
 public class Empregado {
 
     private int Code;
